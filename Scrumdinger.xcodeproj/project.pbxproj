@@ -20,6 +20,7 @@
 		C998E94E28CD7EFF008253A7 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C998E94D28CD7EFF008253A7 /* TrailingIconLabelStyle.swift */; };
 		C998E95028CD8378008253A7 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C998E94F28CD8378008253A7 /* ScrumsView.swift */; };
 		C998E95228CD918B008253A7 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C998E95128CD918B008253A7 /* DetailView.swift */; };
+		C998E95428CDA781008253A7 /* DetailedEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C998E95328CDA781008253A7 /* DetailedEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		C998E94D28CD7EFF008253A7 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		C998E94F28CD8378008253A7 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		C998E95128CD918B008253A7 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		C998E95328CDA781008253A7 /* DetailedEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				C998E95128CD918B008253A7 /* DetailView.swift */,
 				C998E92028CD70B6008253A7 /* Assets.xcassets */,
 				C998E92228CD70B6008253A7 /* Preview Content */,
+				C998E95328CDA781008253A7 /* DetailedEditView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -288,6 +291,7 @@
 				C998E94E28CD7EFF008253A7 /* TrailingIconLabelStyle.swift in Sources */,
 				C998E94828CD7A67008253A7 /* Theme.swift in Sources */,
 				C998E95028CD8378008253A7 /* ScrumsView.swift in Sources */,
+				C998E95428CDA781008253A7 /* DetailedEditView.swift in Sources */,
 				C998E91F28CD70B4008253A7 /* MeetingView.swift in Sources */,
 				C998E91D28CD70B4008253A7 /* ScrumdingerApp.swift in Sources */,
 				C998E94C28CD7D1A008253A7 /* CardView.swift in Sources */,
